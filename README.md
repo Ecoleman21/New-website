@@ -1,2 +1,2 @@
-# New-website
-This is my new website that I am creating
+# ecoleman21.github.io
+This is the code for my wesite!
